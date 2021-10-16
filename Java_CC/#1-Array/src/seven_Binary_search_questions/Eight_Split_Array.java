@@ -4,10 +4,11 @@ public class Eight_Split_Array {
 
         public static void main(String[] args) {
 
-            int [] arr = {7,2,5,10,8};
-            System.out.println(splitArray(arr,2));
+            int [] arr = {7,2,5,10,8,12,16,4,9};
+            System.out.println(splitArray(arr,3));
         }
 
+        //https://leetcode.com/problems/split-array-largest-sum/
         public static  int splitArray(int[] nums, int m) {
             int start = 0;
             int end = 0;

@@ -1,4 +1,4 @@
-package eight_sorting;
+ package eight_sorting;
 // https://leetcode.com/problems/find-the-duplicate-number/
 public class FourThree_Duplicate {
 
