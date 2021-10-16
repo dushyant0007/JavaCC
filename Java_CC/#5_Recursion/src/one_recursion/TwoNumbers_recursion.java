@@ -3,7 +3,7 @@ package one_recursion;
 public class TwoNumbers_recursion {
 
     public static void main(String[] args) {
-
+print1(0);
     }
 
 
