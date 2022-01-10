@@ -55,8 +55,6 @@ public class Custom_ArrayList {
     public String toString() {
        return "data = " + Arrays.toString(data) +
                  "\nsize = "+size;
-
-
     }
 
     public static void main(String[] args) {
